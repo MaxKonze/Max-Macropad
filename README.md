@@ -32,7 +32,7 @@ I wrote the firmware using the kmk libary in python. I'm using a 2 layer system 
 [My Firmware](https://github.com/MaxKonze/Max-Macropad/blob/main/firmware/main.py)
 
 # BOM:
-- 1x XIAO RP2040
+- 1x XIAO RP2040 (with pins, so i can solder it through-hole)
 - 7x Cherry MX Switches
 - 1x EC11 Rotary Encoder EC11 + Switch + Vertical H20mm MountingHoles & 1x Knob
 - 7x Keycaps
