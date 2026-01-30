@@ -1,6 +1,6 @@
 # Max-Macropad
 
-My Hackpad has 7 keys. 6 of those keys are macros, while the 7. key is to change between two layers. I also used a rotary encoder with a switch to change the volume.
+My Hackpad has 7 keys. 6 of those keys are macros oriantated in a row2col matrix, while the 7. key is to change between two layers. I also used a rotary encoder with a switch to change the volume.
 
 ## Features:
 - 7 Keys + a switch in the rotary encoder
