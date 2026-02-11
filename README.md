@@ -19,9 +19,11 @@ The PCB was made in KICAD. I used a matrix for the keys. For the 8th key i used 
 
 ## Case:
 The case was made using Fusion. The top part of the case gets secured using M3 Screws and M3 heatset inserts. I decided to add a window to see the diodes, to give the design a bit more character. In the end I added a few design elements on the topsite of my Hackpad, bacause I think it looks quite cool.
+
 (Some of the keys are orientated in the wrong direction, because i did not find a good way to turn them around in Fusion, but they will fit in the real Hackpad)
 
 ![](https://github.com/MaxKonze/Max-Macropad/blob/main/cad/Hackpad_1.png)
+![](https://github.com/MaxKonze/Max-Macropad/blob/main/cad/Hackpad_2.png)
 
 ## Firmware:
 I wrote the firmware using the kmk libary in python. I'm using a 2 layer system to have more hotkeys on my macropad without having more switches. By now I'm not 100% sure what hotkeys I want to have on my Hackpad so I used letters as placeholders. I'll change that later. The LED's work as a status light to show which layer is currently active.
