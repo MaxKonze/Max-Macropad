@@ -15,7 +15,6 @@ active_layer = 0
 # This is the main instance of your keyboard
 keyboard = KMKKeyboard()
 
-# Add the macro extension
 macros = Macros()
 rotary_encoder = EncoderHandler()
 keyboard.modules.append(macros)
@@ -62,8 +61,5 @@ rotary_encoder.map = [
     ((KC.VOLU, KC.VOLD),), 
 ]
 
-
-
-# Start kmk!
 if __name__ == '__main__':
     keyboard.go()
