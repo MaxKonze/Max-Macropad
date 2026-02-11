@@ -37,8 +37,8 @@ I wrote the firmware using the kmk libary in python. I'm using a 2 layer system 
 - 7x DSA Keycaps
 - 8x 1N4148 Diodes
 - 2x SK6812 MINI-E LEDs
-- M3 Screws
-- M3 heat inserts
+- 7x M3 Screws
+- 7x M3 heat inserts
 - 3D Printed Case
 
 (I used 3 more screws and heat inserts than allowed the secure my pcb in place. If it is not possible for you to ship those I just order them by myself.)
