@@ -20,6 +20,7 @@ The PCB was made in KICAD. I used a matrix for the keys. For the 8th key i used 
 ## Case:
 The case was made using Fusion. The top part of the case gets secured using M3 Screws and M3 heatset inserts. I decided to add a window to see the diodes, to give the design a bit more character. In the end I added a few design elements on the topsite of my Hackpad, bacause I think it looks quite cool.
 (Some of the keys are orientated in the wrong direction, because i did not find a good way to turn them around in Fusion, but they will fit in the real Hackpad)
+
 ![](https://github.com/MaxKonze/Max-Macropad/blob/main/cad/Hackpad_1.png)
 
 ## Firmware:
