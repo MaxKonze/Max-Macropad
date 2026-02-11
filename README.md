@@ -5,7 +5,6 @@ My Hackpad has 7 keys. 6 of those keys are macros oriantated in a row2col matrix
 - 7 Keys + a switch in the rotary encoder
 - 1 rotary encoder
 - 2 Neopixels as status lights
-- 2 Part Case
 - XIAO RP2040
 
 ## Challenges:
