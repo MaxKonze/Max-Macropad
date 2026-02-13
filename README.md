@@ -43,4 +43,4 @@ I wrote the firmware using the KMK library in python. I'm using a 2-layer system
 - 7x M3 heat inserts
 - 3D Printed Case
 
-(I used 3 more screws and heat inserts than allowed the secure my pcb in place. If it is not possible for you to ship those I just order them by myself.)
+(I used 3 more screws and heat inserts than allowed the secure my pcb in place. If it is not possible to ship those, I will just order them by myself.)
