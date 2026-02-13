@@ -14,7 +14,7 @@ I had some difficulties routing my PCB, because I did this for the first time. A
 
 # The build process:
 ## PCB:
-The PCB was made in KICAD. I used a matrix for the keys. For the 8th key i used the switch of the rotary encoder. My routing on the PCB is still pretty messy, but I already improved, considering my first iteration of routing.
+The PCB was designed in KiCAD. I used a matrix for the keys. For the 8th key I used the switch of the rotary encoder. My routing on the PCB is still a bit messy, but I already improved significantly, considering my first iteration of routing.
 
 ![](https://github.com/MaxKonze/Max-Macropad/blob/main/pcb/schematic%20image.png)
 ![](https://github.com/MaxKonze/Max-Macropad/blob/main/pcb/pcb.png)
