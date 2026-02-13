@@ -1,4 +1,4 @@
-# Max Hackpad
+# Max Macropad
 I wanted to create a small Keyboard with shortcuts, so I can simplify a lot of tasks on my PC.
 
 My Hackpad has 7 keys. 6 of those keys are macros oriented in a row2col matrix, while the 7th key is to change between two layers. I also used a rotary encoder with a switch to change the volume.
