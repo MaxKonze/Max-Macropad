@@ -1,7 +1,8 @@
 # Max Macropad
-I wanted to create a small Keyboard with shortcuts, so I can simplify a lot of tasks on my PC.
+I wanted to create a small Keyboard with shortcuts, so I can simplify a lot of tasks on my PC. For example it significantly simplifies Photoshop workflows by binding complex multi-key shortcuts to a single press on my Macropad.
+Moreover I have always wanted to dive into electronics and this macropad was the perfect starting point for me. 
 
-My Hackpad has 7 keys. 6 of those keys are macros oriented in a row2col matrix, while the 7th key is to change between two layers. I also used a rotary encoder with a switch to change the volume.
+My Hackpad has 7 keys. 6 of those keys are macros oriented in a row2col matrix, while the 7th key is to change between two layers. I also used a rotary encoder with a switch to change the volume on my pc.
 
 ## Features:
 - 7 Keys + a switch in the rotary encoder
@@ -31,14 +32,16 @@ I wrote the firmware using the KMK library in python. I'm using a 2-layer system
 [My Firmware](https://github.com/MaxKonze/Max-Macropad/blob/main/firmware/main.py)
 
 # BOM:
-- 1x XIAO RP2040 (with pins, so I can solder it through-hole)
-- 7x Cherry MX Switches
-- 1x EC11 Rotary Encoder EC11 + Switch + Vertical H20mm MountingHoles & 1x Knob
-- 7x DSA Keycaps
-- 8x 1N4148 Diodes
-- 2x SK6812 MINI-E LEDs
-- 7x M3 Screws
-- 7x M3 heat inserts
-- 3D Printed Case
+|Amount|Part|
+|------|---------
+| 1x |XIAO RP2040 (with pins, so I can solder it through-hole)|
+| 7x |Cherry MX Switches|
+| 1x |EC11 Rotary Encoder EC11 + Switch + Vertical H20mm MountingHoles & 1x Knob|
+| 7x |DSA Keycaps|
+| 8x |1N4148 Diodes|
+| 2x |SK6812 MINI-E LEDs|
+| 7x |M3 Screws|
+| 7x |M3 heat inserts|
+| 1x |3D Printed Case|
 
 (I used 3 more screws and heat inserts than allowed the secure my pcb in place. If it is not possible to ship those, I will just order them by myself.)
