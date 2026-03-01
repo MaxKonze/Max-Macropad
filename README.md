@@ -7,7 +7,7 @@ My Hackpad has 7 keys. 6 of those keys are macros oriented in a row2col matrix, 
 ## Features:
 - 7 Keys + a switch in the rotary encoder
 - 1 rotary encoder
-- 2 Neopixels as status lights
+- 2 LEDs as status lights
 - XIAO RP2040
 
 ## Challenges:
@@ -16,6 +16,8 @@ I had some difficulties routing my PCB, because I did this for the first time. A
 # The build process:
 ## PCB:
 The PCB was designed in KiCAD. I used a matrix for the keys. For the 8th key I used the switch of the rotary encoder. My routing on the PCB is still a bit messy, but I already improved significantly, considering my first iteration of routing.
+
+_Note: First I used the wrong LEDs (SK6812), but I changed them later on to the SK6812MINI-E_
 
 ![](https://github.com/MaxKonze/Max-Macropad/blob/main/pcb/schematic%20image.png)
 ![](https://github.com/MaxKonze/Max-Macropad/blob/main/pcb/pcb.png)
