@@ -500,10 +500,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "../Max-Macropad/prod/gerbers/",
+      "plot": "../gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../pcb_v1.step",
+      "step": "../Max-Macropad/pcb/pcb.step",
       "svg": "",
       "vrml": ""
     },
